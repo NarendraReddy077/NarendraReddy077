@@ -114,10 +114,9 @@ I'm **Narendra Reddy** — a passionate **Full Stack Developer** and **AI/ML Ent
 
 I'm always interested in discussing innovative projects, tech solutions, and career opportunities!
 
-- 💼 **LinkedIn:** [Add your LinkedIn profile]
-- 📧 **Email:** [Add your email address]
-- 🌐 **Portfolio Website:** [Add your portfolio if available]
-- 💬 **Open to:** Freelance projects • Full-time opportunities • Collaborations • Discussions
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/narendra-reddy-molakala-1b220a207/]
+- 📧 **Email:** [narendra9737406@gmail.com]
+- 💬 **Open to:** Internships • Full-time opportunities • Collaborations • Discussions
 
 ---
 
