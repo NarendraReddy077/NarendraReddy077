@@ -1,144 +1,94 @@
 # Hey there! 👋 Welcome to my GitHub
 
-I'm **Narendra Reddy** — a passionate **Full Stack Developer** and **AI/ML Enthusiast** building intelligent solutions that solve real-world problems.
+I'm **Narendra Reddy** — an **AI Engineer** and **Full Stack Developer** building production-ready systems around LLMs, RAG, agents, and developer tooling.
 
 ---
 
 ## 🚀 What I Do
 
-- 🔧 **Full-Stack Web Development** | JavaScript, React, TypeScript, FastAPI
-- 🤖 **AI & Machine Learning** | Python, Neural Networks, RAG Systems, LLMs
-- 💡 **Problem Solving** | Building scalable applications and data-driven solutions
-- 📊 **Data Science** | Analytics, visualization, and predictive modeling
+- 🤖 **AI Engineering** | RAG systems, multi-agent architectures, LLM tooling
+- ⚙️ **Developer Tooling** | VS Code extensions, CLI tools, LSP
+- ☁️ **Cloud & Backend** | AWS (CDK, Lambda, Bedrock), FastAPI, serverless architecture
+- 🔧 **Full-Stack Development** | TypeScript, React, Python
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🤖 [AI Finance Mentor - FIRE Planner](https://github.com/NarendraReddy077/ai-finance-mentor-fire-planner)
-**AI-powered personal finance mentorship system**
-- Generates complete FIRE roadmap with SIP planning
-- Advanced asset allocation and tax optimization
-- Monthly investment guidance & financial insights
-- **Tech Stack:** JavaScript, AI Integration, Advanced Algorithms
-- 🎯 Perfect blend of finance domain knowledge + AI expertise
+### 🧩 [CommitSynth](https://github.com/NarendraReddy077/CommitSynth)
+**VS Code extension for AI-powered commit messages & PR descriptions**
+- Analyzes staged git diffs and repo history to generate context-aware commits
+- Supports multiple LLM providers (OpenRouter, Anthropic)
+- Style-aware generation — conventional commits or mimics your own history
+- Published on the VS Code Marketplace
+- **Tech Stack:** TypeScript, VS Code Extension API, `child_process`, `SecretStorage`
+
+### 🎥 [YT Intelligence](https://github.com/NarendraReddy077/youtube-video-summarizer)
+**Multi-agent RAG system for YouTube video intelligence**
+- Retrieval-augmented pipeline over video transcripts with semantic search
+- Multi-agent orchestration for summarization and Q&A
+- **Tech Stack:** LangChain, Ollama (Gemma 3), ChromaDB, all-MiniLM-L6-v2, FastAPI
+
+### 📰 Daily Trending News Telegram Bot
+**Fully serverless AWS news pipeline delivering daily digests**
+- EventBridge-scheduled fetcher + FastAPI/Mangum API, DynamoDB storage
+- S3/CloudFront-hosted dashboard, GitHub Actions CI/CD with OIDC
+- Live at [t.me/FindMyNewsChannel](https://t.me/FindMyNewsChannel)
+- **Tech Stack:** AWS CDK (Python), Lambda, DynamoDB, S3, CloudFront
 
 ### 💬 [RAG-Powered Q&A Engine](https://github.com/NarendraReddy077/RAG-QA-Engine)
 **Multi-source intelligent retrieval system**
-- Retrieval Augmented Generation (RAG) implementation
 - Query multiple data sources with semantic understanding
 - Production-ready LLM integration
 - **Tech Stack:** JavaScript, NLP, Vector Databases
 
-### 💰 [CashLytics - Personal Finance App](https://github.com/NarendraReddy077/CashLytics)
-**Full-featured financial management platform**
-- Real-time expense tracking and budget management
-- Interactive analytics dashboard with visual insights
-- Secure data handling and responsive design
-- **Tech Stack:** JavaScript, React, Modern UI/UX
-
-### 🏢 [Autonomous Building Chatbot](https://github.com/NarendraReddy077/autonomous-building-chatbot)
-**Intelligent building management system**
-- AI-powered chatbot for building operations
-- Natural language understanding for facility requests
-- Multi-turn conversation management
-- **Tech Stack:** Python, FastAPI, NLP, Deep Learning
-
-### 🧠 [CNN Image Classification](https://github.com/NarendraReddy077/CNN_Image_Classification)
-**Deep learning for MNIST handwritten digit recognition**
-- Advanced Convolutional Neural Networks
-- 99%+ accuracy on image classification
-- Complete ML pipeline implementation
-- **Tech Stack:** Python, TensorFlow/PyTorch, Deep Learning
-
-### 💬 [Chat-Free - Full-Stack Chatbot](https://github.com/NarendraReddy077/Chat-Free)
-**End-to-end chat application with modern architecture**
-- Real-time messaging with WebSocket support
-- Full-stack implementation from frontend to backend
-- Database persistence and user authentication
-- **Tech Stack:** Python, React, FastAPI, PostgreSQL
+### 🤖 [AI Finance Mentor – FIRE Planner](https://github.com/NarendraReddy077/ai-finance-mentor-fire-planner)
+**AI-powered personal finance mentorship system**
+- Generates a complete FIRE roadmap with SIP planning
+- Asset allocation and tax optimization guidance
+- **Tech Stack:** JavaScript, AI Integration, Financial Modeling
 
 ---
 
 ## 💻 Technical Skills
 
-**Languages:** 
-- JavaScript/TypeScript • Python • SQL • HTML/CSS • Java
+**Languages:**
+JavaScript/TypeScript • Python • SQL • HTML/CSS
 
-**Frontend Development:** 
-- React • HTML5 • CSS3 • Responsive Web Design • UI/UX
+**AI/ML & Agents:**
+LangChain • LangGraph • RAG Systems • Vector Databases (Qdrant, ChromaDB) • LLM Integration (Anthropic, OpenRouter, Groq) • MCP
 
-**Backend Development:** 
-- FastAPI • Node.js • REST APIs • Database Architecture • Microservices
+**Backend & Cloud:**
+FastAPI • AWS (CDK, Lambda, Bedrock, DynamoDB, S3, EventBridge) • REST APIs • Serverless Architecture
 
-**AI/ML & Data Science:** 
-- TensorFlow • PyTorch • Machine Learning • NLP • RAG Systems • Large Language Models • CNN • Neural Networks
+**Developer Tooling:**
+VS Code Extension API • Git internals • CI/CD (GitHub Actions)
 
-**Tools & Platforms:** 
-- Git • GitHub • Jupyter Notebooks • AWS • Docker • Cloud Services
+**Frontend:**
+React • Responsive Web Design
 
-**Specializations:** 
-- Full-Stack Development • AI Integration • Financial Systems • Chatbot Architecture • Computer Vision
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarendraReddy077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraReddy077&layout=compact&theme=tokyonight&hide_border=true)
+**Tools & Platforms:**
+Git • GitHub • Docker • Jupyter Notebooks
 
 ---
 
-## 🎯 Current Focus Areas
+## 🎯 Current Focus
 
-- 🔬 **Advanced LLM & RAG Architectures** - Building next-gen retrieval systems
-- 🌐 **Scalable Full-Stack Applications** - Microservices and cloud-native development
-- 📈 **FinTech Innovations** - AI-driven financial solutions
-- 🤖 **Autonomous Systems** - Intelligent agents and autonomous operations
-- 🧠 **Computer Vision** - Advanced image processing and recognition
-
----
-
-## 💡 Why Work With Me?
-
-✨ **Versatile Expertise** - Strong across full-stack development, AI/ML, and data science
-🎯 **Problem Solver** - I break down complex problems into elegant solutions
-🚀 **Innovation Focused** - Always exploring cutting-edge technologies and best practices
-📚 **Continuous Learner** - Staying updated with latest trends in tech and AI
-🤝 **Collaborative** - Open to teamwork, feedback, and knowledge sharing
+- 🛠️ Developer tooling — VS Code extensions, LSPs, and AI-assisted dev workflows
+- 🔬 Multi-agent RAG architectures and MCP-based agent tooling
+- ☁️ Production-grade serverless systems on AWS
+- 🏭 Hybrid rule-based + LLM agent systems for industrial IoT (pump control, anomaly detection)
 
 ---
 
 ## 📫 Let's Connect & Collaborate
 
-I'm always interested in discussing innovative projects, tech solutions, and career opportunities!
+I'm always interested in discussing AI engineering roles, dev tooling projects, and collaborations!
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/narendra-reddy-molakala-1b220a207/]
-- 📧 **Email:** [narendra9737406@gmail.com]
-- 💬 **Open to:** Internships • Full-time opportunities • Collaborations • Discussions
-
----
-
-## 📈 Featured Contributions
-
-- 30+ repositories showcasing diverse tech stack
-- Strong focus on production-ready code quality
-- Experience with end-to-end project development
-- Contributions spanning AI, Web Development, and Data Science
+- 💼 **LinkedIn:** [narendra-reddy-molakala](https://www.linkedin.com/in/narendra-reddy-molakala-1b220a207/)
+- 📧 **Email:** narendra9737406@gmail.com
+- 💬 **Open to:** Internships • Full-time opportunities • Collaborations
 
 ---
-
-## 🎓 Continuous Learning
-
-I regularly explore new technologies and maintain projects that demonstrate:
-- Latest frameworks and libraries
-- Best practices in code architecture
-- Real-world problem solving
-- Industry-standard implementations
-
----
-
-**Thanks for visiting my GitHub! Feel free to explore my projects, fork them, and don't forget to ⭐ the ones you find interesting!**
 
 *Last updated: 2026*
