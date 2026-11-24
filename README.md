@@ -19,7 +19,7 @@ Currently exploring the intersection of **Agentic AI, developer productivity, an
 ## 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech Computer Science & Engineering student at **RGUKT RK Valley**.
-- 🏭 Former **Siemens Gavatar Engineering Intern**, working on AI-driven industrial applications and automation.
+- 🏭 Former **Software Engineering Intern at Siemens**, working on AI-driven industrial applications and automation.
 - 🤖 Interested in Agentic AI, LLM applications, RAG architectures, and AI-powered developer tools.
 - ☁️ Experienced in building Python backends, REST APIs, and AWS serverless applications.
 - 🛠️ Enjoy taking ideas from problem definition to implementation, deployment, and automation.
@@ -29,7 +29,7 @@ Currently exploring the intersection of **Agentic AI, developer productivity, an
 
 ## 🚀 Featured Projects
 
-### 🏭 [FDD – 5-Agent Fault Detection & Diagnosis System](https://github.com/NarendraReddy077/fdd-agent)
+### 🏭 FDD – Multi-Agent Fault Detection & Diagnosis System
 
 **LangGraph · LangChain · Python · AI Agents · Tool Calling**
 
@@ -217,7 +217,7 @@ A retrieval-augmented generation application that answers questions using multip
 ## 🏆 Experience & Achievements
 
 - **Siemens Scholar** — Selected among 300 scholars across India under the Siemens Scholarship Program, Batch XI.
-- **Siemens Gavatar Engineering Intern** — Worked on AI-powered building systems, workflow automation, anomaly detection, and intelligent applications.
+- **Software Engineering Intern at Siemens** — Worked on AI-powered building systems, workflow automation, anomaly detection, and intelligent applications.
 - **Industrial AI Development** — Built agentic workflows and RAG applications for real-world engineering use cases.
 - **Developer Tooling** — Published [CommitSynth](https://github.com/NarendraReddy077/commitsynth), an AI-powered VS Code extension.
 - **Cloud Engineering** — Designed and deployed serverless AWS applications using Infrastructure as Code.
@@ -260,5 +260,3 @@ I'm interested in opportunities involving **AI Engineering, Agentic AI, Python B
 ---
 
 <p align="center"><i>Building useful things, learning continuously, and turning ideas into working systems.</i></p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=NarendraReddy077&style=flat-square&color=blue" alt="Profile views" /></p>
